@@ -74,26 +74,3 @@ user-management-scripts/
 ## License
 
 This project is licensed under the MIT License.
-
----
-
-### 4. **Steps to Upload to GitHub:**
-
-1. **Initialize the Repository:**
-   - Run the following commands inside your `user-management-scripts` directory:
-
-   ```bash
-   cd user-management-scripts
-   git init
-   git add .
-   git commit -m "Initial commit: added user creation script and README"
-   ```
-
-2. **Push to GitHub:**
-   - Assuming you've already created the repository on GitHub with the name `user-management-bash-script`, run the following commands:
-
-   ```bash
-   git remote add origin https://github.com/yourusername/user-management-bash-script.git
-   git branch -M main
-   git push -u origin main
-   ```
