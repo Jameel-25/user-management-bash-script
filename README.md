@@ -1,18 +1,3 @@
-### 1. **Directory and Script Name:**
-
-- **Directory Name:** `user-management-scripts`
-- **Script Name:** `create_user.sh`
-
-### 2. **GitHub Repository Name:**
-
-- **Repository Name:** `user-management-bash-script`
-
-### 3. **README File for GitHub:**
-
-Below is the content for the README file. You can customize it further if needed:
-
----
-
 # User Management Bash Script
 
 ## Overview
